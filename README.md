@@ -1,1 +1,1 @@
-# Praktikum_inventory1
+# inventory
