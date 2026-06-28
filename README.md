@@ -29,8 +29,12 @@ PROGRAM STUDI TEKNIK INDUSTRI
 PROFIL SINGKAT
 Second Chance Thrift adalah toko yang menjual pakaian bekas berkualitas (thrift) dengan konsep ramah lingkungan dan harga yang terjangkau. Toko ini menyediakan berbagai pilihan produk, seperti kaos, kemeja, jaket, celana, hoodie, hingga aksesori dari berbagai merek lokal maupun internasional. Seluruh produk telah melalui proses seleksi, pencucian, dan pengecekan kualitas sebelum dijual kepada pelanggan.
 Toko ini menargetkan berbagai kalangan, terutama pelajar, mahasiswa, dan masyarakat yang ingin tampil modis dengan biaya yang lebih hemat. Selain memberikan alternatif berbelanja yang ekonomis, Second Chance Thrift juga mendukung konsep sustainable fashion dengan memperpanjang masa pakai pakaian sehingga membantu mengurangi limbah tekstil.
+
+
 VISI
 Menjadi toko thrifting terpercaya yang menyediakan produk berkualitas sekaligus mendukung gaya hidup berkelanjutan.
+
+
 MISI
 1.	Menyediakan pakaian thrift berkualitas dengan harga terjangkau. 
 2.	Memberikan pelayanan yang ramah dan terpercaya kepada pelanggan. 
